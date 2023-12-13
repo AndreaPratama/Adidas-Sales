@@ -69,7 +69,7 @@ The comprehensive analysis and visualizations provided in this dashboard empower
 - Dashboard Overview
 - Retailer
 
-### _You can interact with report here https://www.novypro.com/project/adidas-sales_
+### You can interact with report here _[Novypro](https://www.novypro.com/project/adidas-sales)_
 
 ## Conclusion & Recommendation
 The Adidas Sales Analysis project has provided invaluable insights into the retail landscape, unraveling nuanced details about sales trends, retailer performance, and product dynamics. The utilization of Power BI, coupled with Data Analysis Expressions (DAX), has proven instrumental in crafting a comprehensive dashboard that goes beyond surface-level analytics.
