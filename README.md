@@ -69,6 +69,8 @@ The comprehensive analysis and visualizations provided in this dashboard empower
 - Dashboard Overview
 - Retailer
 
+![](AdidasNew.png)
+
 ### You can interact with report here _[Novypro](https://www.novypro.com/project/adidas-sales)_
 
 ## Conclusion & Recommendation
